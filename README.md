@@ -65,7 +65,11 @@ Additionally, I practiced using various VS Code features, such as the integrated
 ##Conclusion
 This project was a hands-on introduction to building real-time web applications. I successfully created a simple, working real-time chat application using React and WebSockets. I understood the importance of managing state in React, persistent server-client communication, and the significance of libraries like ws and express in building scalable backend services. Future enhancements can include message timestamps, user authentication, MongoDB integration for storing chat history, and deploying the app on cloud platforms like Vercel and Render.
 
-#output :
+## output :
+
+actually i wanted to provide a video clip but my current laptop is not supporting ie,the file is not uploading so i am sending you the output screenshot
+
+![Image](https://github.com/user-attachments/assets/3734191f-bebe-48ea-93f7-3b5eb2d95de2)
 
 
 
